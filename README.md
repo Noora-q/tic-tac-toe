@@ -22,12 +22,17 @@ I want to be able to start a game
 
 As player 1
 So I can play tic-tac-toe
-I want to be able to play X during my turn
+I want to be able to play X on an empty field during my turn
 
 As player 2
 So I can play tic-tac-toe
-I want to be able to play O during my turn
+I want to be able to play O on an empty field during my turn
 
+As a player
+So I can win
+I want the game to be end when I claim all the fields in a row, column or diagonal
 
-]
+As a player
+So the game can end (without a winner)
+I want the game to end when all the fields are taken
 ```
